@@ -1,0 +1,18 @@
+shell:
+  program: /bin/zsh
+font:
+  size: 12
+  normal:
+    family: MesloLGS NF
+    style: Regular
+  italic:
+    family: MesloLGS NF
+    style: Italic
+  bold:
+    family: MesloLGS NF
+    style: Bold
+window:
+  opacity: 0.98
+key_bindings:
+  - { key: N, mods: Control, action: SpawnNewInstance }
+  - { key: W, mods: Control, action: Quit }

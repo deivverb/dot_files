@@ -1,0 +1,10 @@
+[user]
+	name = foo bar
+	email = foo@bar.com
+
+[url "git@github.com:"]
+        insteadOf = https://github.com/
+[core]
+	autocrlf = input
+[init]
+	defaultBranch = main

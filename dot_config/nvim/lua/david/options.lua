@@ -40,3 +40,9 @@ vim.opt.colorcolumn = "100"
 
 -- Sets the leader key to spacebar
 vim.g.mapleader = " " 
+
+-- Display TAB as characters
+vim.opt.list = true
+
+-- Define listchars options
+vim.opt.listchars:append({ tab = '> ', trail = '.' })

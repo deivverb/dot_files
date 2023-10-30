@@ -19,6 +19,3 @@ Add `excludesfile` to core in `.gitconfig` to register a global `.gitignore` fil
 
 - Neovim [ [source](https://neovim.io/) ]
 - Grep search requires `ripgrep`
-
-### Todo
-Document keymaps for `which-key`
